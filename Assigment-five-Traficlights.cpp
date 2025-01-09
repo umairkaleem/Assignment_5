@@ -144,7 +144,7 @@ void displayVehicles()
 
 
 
-// Traffic violations
+// this is used for traffic violations
 // ask this question from you sir that why we use vector<Violation> violations; instead of vector<vehicle> vehicles;
 // the answer is that we use vector<Violation> violations; because we can store multiple values of the same type in a vector
 vector<Violation> violations;
