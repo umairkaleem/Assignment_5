@@ -1,0 +1,7 @@
+--- Vehicle Information ---
+
+Vehicle 1:
+Plate: 9076
+Color: black
+Model: s-2024
+Brand: toyota
